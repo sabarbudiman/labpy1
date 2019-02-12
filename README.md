@@ -35,18 +35,18 @@
 Berikut dibawah ini Flowchart dan screenshoot hasil eksekusi dari ke 3 kondisi input data program.
 
 
-Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
-Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
-Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
-Kemudian Run
+- Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
+- Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
+- Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
+- Kemudian Run
 
 Silahkan lihat contoh di bawah ini :
 
 print ("Program mencari bilangan terbesar dari 3 bilangan\n")
 
-A = int(input("Masukkan Bilangan Pertama: "))
-B = int(input("Masukkan Bilangan Kedua: "))
-C = int(input("Masukkan Bilangan Ketiga: "))
+A = int(input("Masukkan Bilangan Pertama: "))			
+B = int(input("Masukkan Bilangan Kedua: "))			
+C = int(input("Masukkan Bilangan Ketiga: "))			
 
 if A > B > C :
      print("\nBilangan Pertama adalah Bilangan Terbesar = %s" % A)
