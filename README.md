@@ -32,7 +32,7 @@
 
 
 
-Berikut dibawah ini Flowchart dan screenshoot hasil eksekusi dari ke 3 kondisi input data program.
+Berikut dibawah ini Flowchart dari program tersebut ![flowchart-1](https://user-images.githubusercontent.com/46584235/52652029-e5f45f00-2f1f-11e9-9b94-a1f268311b74.jpg)
 
 
 - Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
@@ -55,14 +55,16 @@ elif B > C :
 else:
      print("\nBilangan Ketiga adalah Bilangan Terbesar = %s" % C)
 
+- Berikut Screenshot Hasil dari program tersebut : 
 
-Bilangan Pertama yang menjadi bilangan terbesar.
-
-
-Bilangan Kedua yang menjadi bilangan terbesar.
+1. Bilangan Pertama yang menjadi bilangan terbesar.![if](https://user-images.githubusercontent.com/46584235/52652039-ed1b6d00-2f1f-11e9-937d-a302a685d9d0.jpeg)
 
 
-Bilangan Ketiga sebagai bilangan terbesar.
+2. Bilangan Kedua yang menjadi bilangan terbesar.![elif](https://user-images.githubusercontent.com/46584235/52652046-f278b780-2f1f-11e9-8fb3-68a6334e6b97.jpeg)
+
+
+3. Bilangan Ketiga sebagai bilangan terbesar.![else](https://user-images.githubusercontent.com/46584235/52652060-f7d60200-2f1f-11e9-967e-1d41ae091413.jpeg)
+
 
 
 Terima Kasih.
