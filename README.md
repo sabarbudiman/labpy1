@@ -63,7 +63,7 @@ elif B > C :
                                                         
 else:
 
-	print("\nBilangan Ketiga adalah Bilangan Terbesar = %s" % )
+	print("\nBilangan Ketiga adalah Bilangan Terbesar = %s" % C)
 
 
 ## Berikut hasil screenshot dari program tersebut :
